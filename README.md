@@ -1,6 +1,6 @@
 # mobile-tictactoe
 From a Udemy course
-[Course Link] (https://www.udemy.com/course/the-complete-android-oreo-developer-course)
+[Course Link](https://www.udemy.com/course/the-complete-android-oreo-developer-course)
 
 
 added a pop up screen for winner if they wanted to play additional games
